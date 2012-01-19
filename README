@@ -1,0 +1,10 @@
+This is an example app of Require.js + jQuery + Buster.js
+
+So far, its very touchy.
+
+Problems:
+ - Can't use testbed config yet in buster.js [eventual]
+ - Use of setting directory as resource trip error [need to report to buster]
+ - Require.js is very touchy about things not loaded yet
+  - Alternate require syntax is possibly confusing
+ - Buster.js does not refresht eh testbed between cases as it is supposed to [need to report to buster]
