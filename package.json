@@ -1,0 +1,20 @@
+{
+  "author": "Don Abrams <dtabrams@udel.edu> (http://donabrams.name)",
+  "name": "udel-cfs-widget",
+  "description": "University of Delaware Chartfield String Widget",
+  "version": "0.0.0",
+  "main": "./src/cfs",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "dependencies": {
+    "amdefine": ">=0.0.1",
+    "requirejs": "1.0.4"
+  },
+  "devDependencies": {
+    "buster": "0.3.0"
+  }
+}
